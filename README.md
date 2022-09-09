@@ -13,7 +13,7 @@ We first utilize LabelImg to mark the area of interest in the fish images. Thus,
 
 # References  
 [1] [Simplest custom object detection with Python | Deep Learning | Pytorch | Detecto | ResNet](https://www.youtube.com/watch?v=6FUcLHv6wpE&ab_channel=ArjunKashyap)  
-[2] Rich feature hierarchies for accurate object detection and semantic segmentation  
-[3] Fast R-CNN    
-[4] Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks        
+[2] Ross Girshick, Jeff Donahue, Trevor Darrell, and Jitendra Malik, Rich feature hierarchies for accurate object detection and semantic segmentation, 2014.  
+[3] Ross Girshick, Fast R-CNN, 2015.     
+[4] Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, 2015.         
 [5] [A Large Scale Fish Dataset](https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset). 
