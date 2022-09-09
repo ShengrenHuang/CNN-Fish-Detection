@@ -2,7 +2,7 @@
 
 在本練習中，參考[1] 我們目標利用CNN 與 pytorch 相關的 package Detecto 來實作一個fish detection 演算法，在CNN object detection 的範疇中，主要以 R-CNN 為廣為popular 的網路架構[2]，後續發展出Fast R-CNN[3]，與Faster R-CNN。在本練習中，我們主要利用Faster R-CNN來當作演算法實作上的網路架構。
 
-我們首先利用 LabelImg 擷取dataset 中的目標物件的位置，如此不用將整張圖片送入CNN做運算(節省計算時間)，接著以 Python package Detecto，中pre-trained Faster R-CNN 架構 利用 Transfer Learning 套用在我的魚的dataset上。
+我們首先利用 LabelImg 擷取dataset 中的目標物件的位置，如此不用將整張圖片送入CNN做運算(節省計算時間)，接著以 Python package Detecto，中pre-trained Faster R-CNN 架構 利用 Transfer Learning 套用在我的魚的dataset上。下圖為inference 的結果。結果正確辨識魚種。
 
 ![image](https://user-images.githubusercontent.com/108604868/188943075-989626b2-7245-42bf-a124-f07f117b1557.png)
 
