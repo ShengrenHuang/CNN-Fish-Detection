@@ -4,6 +4,8 @@
 
 我們首先利用 LabelImg 擷取dataset 中的目標物件的位置，如此不用將整張圖片送入CNN做運算(節省計算時間)，接著以 Python package Detecto，中pre-trained Faster R-CNN 架構 利用 Transfer Learning 套用在我的魚的dataset上。下圖為inference 的結果。結果正確辨識魚種。
 
+In this practice, we develop a fish detection algorithm via Detecto (python package) by referring [1]. In the field of object detection using convoultional neural network (CNN), the R-CNN is one of the most popular network architecture.  
+
 ![image](https://user-images.githubusercontent.com/108604868/188943075-989626b2-7245-42bf-a124-f07f117b1557.png)
 
 
