@@ -1,6 +1,6 @@
 # Faster-RCNN-Fish-Detection
 
-在本練習中，我們目標利用CNN 與 pytorch 相關的 package 來實作一個fish detection 演算法，
+在本練習中，參考[1] 我們目標利用CNN 與 pytorch 相關的 package 來實作一個fish detection 演算法，
 
 我們首先利用 LabelImg 擷取dataset 中的目標物件的位置，如此不用將整張圖片送入CNN做運算(節省計算時間)，
 
