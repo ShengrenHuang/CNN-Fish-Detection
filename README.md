@@ -13,7 +13,7 @@
 
 
 # References  
-[1] [Simplest custom object detection with Python | Deep Learning | Pytorch | Detecto | ResNet](https://www.youtube.com/watch?v=6FUcLHv6wpE&ab_channel=ArjunKashyap)
+[1] [Simplest custom object detection with Python | Deep Learning | Pytorch | Detecto | ResNet](https://www.youtube.com/watch?v=6FUcLHv6wpE&ab_channel=ArjunKashyap)  
 [2] Rich feature hierarchies for accurate object detection and semantic segmentation  
 [3] Fast R-CNN    
 [4] Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks        
