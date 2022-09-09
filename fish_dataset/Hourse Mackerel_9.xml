@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_dataset</folder>
+	<filename>Hourse Mackerel_9.png</filename>
+	<path>D:\fish_dataset\Hourse Mackerel_9.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2832</width>
+		<height>2128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HM</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>499</ymin>
+			<xmax>2787</xmax>
+			<ymax>1204</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish_dataset</folder>
+	<filename>Black Sea Sprat_6.png</filename>
+	<path>D:\fish_dataset\Black Sea Sprat_6.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BSS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>307</ymin>
+			<xmax>801</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+</annotation>
