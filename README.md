@@ -10,6 +10,6 @@
 
 
 # References  
-[1] Rich feature hierarchies for accurate object detection and semantic segmentation
-[2] Fast R-CNN  
-[3] Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks  
+[1] Rich feature hierarchies for accurate object detection and semantic segmentation  
+[2] Fast R-CNN    
+[3] Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks    
